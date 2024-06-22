@@ -9,4 +9,4 @@ At the end of 10 rounds the user is prompted with alert containing their final s
   <img alt="End of game alert" src="https://github.com/anthonycandelino/RockPaperScissors/assets/32252982/9ee69e85-b8a1-4dc6-b388-4ebc41d6d286" width="250" />
 </p>
 
-App was created using SwiftUI features such as _@State, two-way bindings, alerts, conditional rendering, and custom view modifiers_
+App was created as part of **100 Days of SwiftUI** Course using SwiftUI features such as _@State, two-way bindings, alerts, conditional rendering, and custom view modifiers_
